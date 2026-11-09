@@ -1,11 +1,15 @@
 # Arbeitspakete Phase 1
 
+## Systemskizze
+
+![Systemskizze Fla Infra](fla_infra.drawio.png)
+
 ## WP0 - Bestandsaufnahme Netzwerk und Hardware
 
 Aktuellen Stand festhalten und dokumentieren, Zugangsdaten zentral aber geschützt verfügbar machen.
 
 - Internetzugang im Keller: Zugang Netzwerk, Zugang Router Konfiguration
-- Freifunk-Router: Zugang dokumentieren, Netzübergang, Zuugangsdaten Router Konfiguration
+- Freifunk-Router: Zugang dokumentieren, Netzübergang, Zugangsdaten Router Konfiguration
 - Laptops / Bürorechner: Benutzer-Accounts, Netzwerkzugänge
 
 **Definition of done:**
@@ -30,7 +34,7 @@ Netzwerke im FlaFla so vorbereiten, dass spätere interne und externe Systeme/Di
 - Getestete und dokumentierte Netzabdeckung nach Bedarf ( Beispiel: Kneipe, Disco, Innenhof --> öffentliches WLAN; LAN-Dosen für intern --> Büro; ... )
 - Vorbereitete und bekannte Möglichkeiten, neue Geräte und Dienste in die jeweiligen Netze einzubringen (Drucker, VoIP-Telefone, PCs, Server, ... )
 - Die FlaFla-Netzwerke und die Systemskizze wurden so ergänzt, dass spätere Dienste wie Passwortspeicher und Dokumentenmanagement darin platziert werden können
-- Lücken in der Abdeckung sind bekannt und wurden in Anschaffunslisten für Kabel, WLAN-Repeater, Switches usw. überführt
+- Lücken in der Abdeckung sind bekannt und wurden in Anschaffungslisten für Kabel, WLAN-Repeater, Switches usw. überführt
 
 **(Optional) Bonus Level**
 - Liebevolle Doku: Fotos machen, Social-Media?, öffentliche Systemskizze, F.A.Q.s, Notfallpläne ( Was tun wenn kein Internet? )
