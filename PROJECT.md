@@ -8,6 +8,8 @@ Die hier stattfindenden Arbeiten und Entwicklungen gehen zunächst von der **Fin
 
 Ein weiterer wichtiger Aspekt ist das **Streuen von Wissen** und **Verhinderung von [technischen] Alleingängen**. Die etablierten Werkzeuge und Systeme müssen zu jedem Zeitpunkt von mehreren Menschen aus dem Haus gewartet und gepflegt werden können, es dürfen keine Engpässe und "single point of failures" geschaffen werden. Dokumentation und Akzeptanz für die geschaffenen Systeme sind von höherer Bedeutung als der Funktionsumfang.
 
+**Vorschlag:** Verwaltung von Projekt und Unterlagen zunächst in einem Github-Repository. Dort können wir Dokumentation, Unterlagen und Code zwischenparken und haben das Material präsentationsbereit vorliegen für Entschiedungen in Huasversammlungen.
+
 ## Digitale Souverenität und Datenschutz
 
 Neben den sehr guten ideologischen Gründen gibt es weitere Gründe, die IT-Infrastruktur im FlaFla möglichst souverän im eigenen Haus zu betreiben. Da im Rahmen der Vereins- und Kulturarbeit, **v.a. aber auch in der politischen Arbeit persönliche Daten verarbeitet werden müssen, ist hier besonderer Schutz nötig**. Genutzte Software-Dienste sollten nicht von amerikanischen Großkonzernen bereitgestellt werden, generell sollte auf Souverenität gesetzt werden in Form von eigenen Lösungen oder vertretbaren Alternativen. Dieser Punkt ist nicht zu unterschätzen, in einigen Bereichen muss aufgrund der Kritikalität der Daten auch über Verschlüsselung gesprochen werden, auch zum Schutz vor übergriffigen Behörden.
