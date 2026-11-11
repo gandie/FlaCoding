@@ -4,6 +4,10 @@
 
 ![Systemskizze Fla Infra](fla_infra.drawio.png)
 
+## Termine
+
+Über nuudel vereinbaren?
+
 ## WP0 - Bestandsaufnahme Netzwerk und Hardware
 
 Aktuellen Stand festhalten und dokumentieren, Zugangsdaten zentral aber geschützt verfügbar machen.
