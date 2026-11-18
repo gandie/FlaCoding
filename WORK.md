@@ -25,6 +25,8 @@ Aktuellen Stand festhalten und dokumentieren, Zugangsdaten zentral aber geschüt
 **(Optional) Bonus Level**
 - Liebevolle Doku: Fotos machen, Social-Media?, öffentliche Systemskizze, F.A.Q.s, Notfallpläne ( Was tun wenn kein Internet? )
 
+- [X] Netzwerk ab dem Keller abgelaufen, Diagramm ergänzt, Zugangsdaten bekannt
+
 ## WP1 - Basis, Netzwerk
 
 Netzwerke im FlaFla so vorbereiten, dass spätere interne und externe Systeme/Dienste bequem darin platziert und betrieben werden können.
