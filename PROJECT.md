@@ -41,3 +41,7 @@ Als nächstes muss eine genaue Priorisierung der Arbeitsbereiche in der Gruppe e
 ![Systemskizze Fla Infra](fla_infra.drawio.png)
 
 Die Skizze zeigt den aktuellen groben Aufbau in Verbindung mit dem Internet, und listet mögliche digitale Dienste auf, wie ein ( oder mehrere?! ) Kalender, Chats, Einkaufsliste(n) usw. usf.. Die Herausforderung besteht jetzt in der Platzierung und Verknüpfung dieser potentiellen Inseln zu einem sinnvollen System, das auch zwischen öffentlichen Informationen und internen - schützenswerten (!) - Dingen unterscheiden kann. Außerdem müssen die einzelnen Punkte weiter aufgelöst und ergänzt werden. Tendenziell wird sichtbar, dass für einige der internen Dienste über eine Art "Intranet" nachgedacht werden könnte, in dem wichtige Informationen für hausinterne Menschen verfügbar sind. Ein alter Mini-Computer mit einem Dokumenten-Management wie "paperless", Backups und Passwortspeicher, der in einem physikalisch geschützten Bereich im Fla steht und im einem internen Netzwerk per WLAN verfügbar ist, wäre ein möglicher Start. Mit jedem Projektschritt kann die Systemskizze ergänzt werden, sowie nach und nach in Dokumentation aufgehen, sodass die verfügbaren Dienste für alle Menschen transparent sind.
+
+## Ideen
+
+- Subdomains?! cloud.flafla.de oder ähnliches wären prima Umleitungen, um schlechtere DynCNS-Adressen in merkbare Adressen zu verwandeln
